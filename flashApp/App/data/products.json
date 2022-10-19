@@ -1,0 +1,33 @@
+[{
+  "id": 1,
+  "name": "Dien thoai",
+  "description": "Samsung, 64Gb, RAML: 6GB",
+  "price": 37000000,
+  "image": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg",
+  "category_id": 1
+},
+  {
+  "id": 2,
+  "name": "Dien thoai 2",
+  "description": "Samsung, 64Gb, RAML: 6GB",
+  "price": 37000000,
+  "image": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg",
+  "category_id": 1
+},
+  {
+  "id": 3,
+  "name": "Dien thoai 3",
+  "description": "Samsung, 64Gb, RAML: 6GB",
+  "price": 37000000,
+  "image": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg",
+  "category_id": 2
+},
+  {
+  "id": 4,
+  "name": "Dien thoai 4",
+  "description": "Samsung, 64Gb, RAML: 6GB",
+  "price": 37000000,
+  "image": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg",
+  "category_id": 3
+}
+]
